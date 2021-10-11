@@ -1,7 +1,6 @@
 html{
     width: 1200px;
 }
-
 /* header intestazione più titolo */
 
 
@@ -28,4 +27,24 @@ html{
     font-size: small;
 }
 /* section under header */
+
+/* section paragrafo */
+/* /section paragrafo */
+
+/* section elenco */
+/* /section elenco */
+
+/* section table */
+thead{
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
+
+.table-tr-lightblue{
+    background-color: lightblue;
+}
+
+/* /section table */
+
 
