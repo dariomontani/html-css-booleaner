@@ -4,11 +4,13 @@ html{
 /* header intestazione più titolo */
 .background-the-booleaner{
     background-image: url(../img/pattern.png);
-    background-color: blue;
+    background-size: 35%;
+    background-color: #4da1ff;
+    height: 100px;
 }
 
 .the-booleaner{
-    width: 300px;
+    width: 200px;
 }
 
 h1{
@@ -34,8 +36,8 @@ a{
 }
 /* section under header */
 
-/* section paragrafo */
-/* /section paragrafo */
+/* section paragraph */
+/* /section paragraph */
 
 /* section elenco */
 /* /section elenco */
