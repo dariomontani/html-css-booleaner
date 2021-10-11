@@ -1,6 +1,8 @@
 html{
     width: 1200px;
+    margin: auto;
 }
+
 /* header intestazione più titolo */
 .background-the-booleaner{
     background-image: url(../img/pattern.png);
