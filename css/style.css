@@ -1,4 +1,8 @@
-html{
+html{background-color: black;
+}
+
+body{
+    background-color: white;
     width: 1200px;
     margin: auto;
 }
