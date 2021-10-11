@@ -2,8 +2,6 @@ html{
     width: 1200px;
 }
 /* header intestazione più titolo */
-
-
 .background-the-booleaner{
     background-image: url(../img/pattern.png);
     background-color: blue;
@@ -13,12 +11,20 @@ html{
     width: 300px;
 }
 
+h1{
+    font-size: 50px;
+}
+
 .scritto-da{
-    color: gray;
+    color: grey;
+}
+
+a{
+    text-decoration: none;
 }
 
 .data{
-    color: gray;
+    color: grey;
 }
 /* /header intestazione più titolo */
 
@@ -46,5 +52,29 @@ thead{
 }
 
 /* /section table */
+
+/* section paragraph under table */
+/* /section paragraph under table */
+
+/* section potrebbero interessarti */
+#monitor{
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    height: 208px;
+    width: 312px;
+}
+
+#graph{
+    color: white;
+    background-image: url(../img/graph.jpg);
+    height: 207px;
+    width: 311px;
+}
+
+#interessarti{
+    color: grey;
+}
+/* /section potrebbero interessarti */
+
 
 
