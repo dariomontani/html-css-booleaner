@@ -13,10 +13,14 @@ body{
     background-size: 35%;
     background-color: #4da1ff;
     height: 100px;
+    position: relative;
 }
 
 .the-booleaner{
     width: 200px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
 
 h1{
